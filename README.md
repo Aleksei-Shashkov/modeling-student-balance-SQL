@@ -1,7 +1,7 @@
 # Modeling Student Balance Dynamics via SQL
 
 ## Project Overview
-![modeling-student-balance-SQL](Picture.jpg)
+![modeling-student-balance-SQL](Picture.png)
 This project focuses on modeling the daily balance dynamics for students of an EdTech platform. By reconstructing the history of payments and lesson consumption, the project aims to evaluate business growth and identify critical inconsistencies in the underlying data architecture.
 
 ## Data 
@@ -52,5 +52,5 @@ Analysis of the 2016 data confirms a significant upward trend in:
 
 
 ## 📌 Personal context note
-This project was done as part of the Data Analytics cource at SkyPro (Moscow), class of 2022-2023. 
+This project was done as part of the Data Analytics cource at SkyPro (Moscow), class of 2022-2023.
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/shashkov-aleksei/)!
