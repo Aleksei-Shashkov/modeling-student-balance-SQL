@@ -1,7 +1,7 @@
 # Modeling Student Balance Dynamics via SQL
 
 ## Project Overview
-![modeling-student-balance-SQL](Picture.png)
+![modeling-student-balance-SQL](data/Picture.png)
 This project focuses on modeling the daily balance dynamics for students of an EdTech platform. By reconstructing the history of payments and lesson consumption, the project aims to evaluate business growth and identify critical inconsistencies in the underlying data architecture.
 
 ## Data 
