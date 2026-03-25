@@ -5,7 +5,7 @@
 This project focuses on modeling the daily balance dynamics for students of an EdTech platform. By reconstructing the history of payments and lesson consumption, the project aims to evaluate business growth and identify critical inconsistencies in the underlying data architecture.
 
 ## Data 
-The analysis is based on 4 relational datasets (Data Marts):
+The analysis is based on 4 relational datasets (Data Marts) from Database Schema SKYENG_DB:
 - **classes**: Lesson records (user_id, id_class, start/end timestamps, status, teacher_id).
 - **payments**: Transactional data (user_id, transaction_id, operation type, status, amount, lesson count).
 - **students**: User demographics (user_id, gender, geo-cluster, country, region, email domain).
